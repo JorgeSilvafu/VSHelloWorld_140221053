@@ -14,8 +14,7 @@ namespace VSHelloWorld_140221053
     {
         public static void Main(string[] args)
         {
-            //Comentario
-            //COM
+            //Jorge Silva 
             CreateWebHostBuilder(args).Build().Run();
         }
 
